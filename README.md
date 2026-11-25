@@ -47,8 +47,8 @@ javac HospitalEmergencyQueue.java
 java HospitalEmergencyQueue
 ```[cite: 1, 12]
 
----
-
+**Project Synopsis :-** https://drive.google.com/file/d/1dakd1bPHtygy67IeNUdVmpVZBoqdVekX/view?usp=sharing
+**Project PPT :- ** https://docs.google.com/presentation/d/1TjTkd6s-03F5Y0ZL679kncgZHUYeP7Yc/edit?usp=sharing&ouid=111827267732138836078&rtpof=true&sd=true
 
 **Gopal Krishna Shukla** (`RU-25-10528`)  
 B.Tech CSE (AI & ML) — **Rungta International Skills University**[cite: 12, 32]
